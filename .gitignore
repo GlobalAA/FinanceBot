@@ -1,0 +1,5 @@
+bot.db
+.venv
+.env
+__pycache__
+poetry.lock
